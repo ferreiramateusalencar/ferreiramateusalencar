@@ -16,7 +16,6 @@
 
 ##
 <div> 
-  <a href="http://lattes.cnpq.br/4962899358216367" target="_blank"><img src="https://hc.unicamp.br/wp-content/uploads/2020/04/icon-lattes.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-alencar-ferreira-892783162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/ferreiramateusalencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ferreiramateusalencar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
