@@ -1,10 +1,10 @@
 ### Olá Mundo! 👋 Me chamo Mateus, sou enfermeiro e dev back-end Jr.
 
-- 🔭 Atualmente estou trabalhando como enfermeiro;
-- 🌱 Atualmente estou aprendendo python, Javascript e futuramente estudar HTML, CSS e Reactor;
-- 👯 Estou procurando colaborar em projeto com inovação e saúde;
+- 🔭 Atualmente sou enfermeiro e mestrando em inovação e transferência de propriedade intelectual;
+- 🌱 Estou aprendendo python, HTML, CSS, Javascript e Reactor;
+- 👯 Procurando colaborar em projeto com inovação e saúde;
 - 🤔 Estou procurando ajuda com estudos nas linguagens que mencionei anteriormente;
-- ⚡ Curiosidade: Gosto de astronomia, xadrez, futebol americano e coisas de nerd.
+- ⚡ Curiosidades: Gosto de astronomia, robótica com arduíno, xadrez, futebol americano e coisas de nerd.
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
