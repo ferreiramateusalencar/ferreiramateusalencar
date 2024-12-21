@@ -84,7 +84,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ferreiramateusalencar/ferreiramateusalencar/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ferreiramateusalencar/ferreiramateusalencar/blob/output/github-contribution-grid-snake-dark.svg)
+
+or this
+
+![snake gif](https://github.com/ferreiramateusalencar/ferreiramateusalencar/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
