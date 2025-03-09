@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍⚕️🔍 I am currently a nurse and hold a Master's degree in Innovation and Intellectual Property Transfer - PROFNIT.<br>💻🖥️ Technologist in training in Systems Analysis and Development.<br>👨‍💻🌱 I develop in Python, PHP, HTML, CSS, JavaScript, and React.<br>👯🏘️ I am looking to collaborate on projects related to innovation and healthcare.<br>🧠⚡ I am seeking help with studies in the languages mentioned above.<br>🔭♞ Fun facts: I enjoy astronomy, robotics and microcontrollers, chess, American football, and nerdy things.</p>
+<p align="left">👨‍⚕️🔍 I am currently a nurse and hold a Master's degree in Innovation and Intellectual Property Transfer - PROFNIT.<br>💻🖥️ Technologist in training in Systems Analysis and Development.<br>👨‍💻🌱 I develop in C/C++, Python, PHP, HTML, CSS, JavaScript, and ReactJS/ReactNative.<br>👯🏘️ I am looking to collaborate on projects related to health innovation e agriculture innovation.<br>🧠⚡ I am seeking help with studies in the languages mentioned above.<br>🔭♞ Fun facts: I enjoy astronomy, robotics and microcontrollers/IoT, maker culture/DIY, chess, American football, and nerdy things.</p>
 
 ###
 
