@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 👋 My name is Mateus, I’m a nurse and a Junior Fullstack Developer.</h1>
+<h1 align="center">Hello, World! 👋 My name is Mateus, I'm a Nexialist and polymath.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍⚕️🔍 I am currently a nurse and hold a Master's degree in Innovation and Intellectual Property Transfer - PROFNIT.<br>💻🖥️ Technologist in training in Systems Analysis and Development.<br>👨‍💻🌱 I develop in C/C++, Python, PHP, HTML, CSS, JavaScript, and ReactJS/ReactNative.<br>👯🏘️ I am looking to collaborate on projects related to health innovation e agriculture innovation.<br>🧠⚡ I am seeking help with studies in the languages mentioned above.<br>🔭♞ Fun facts: I enjoy astronomy, robotics and microcontrollers/IoT, maker culture/DIY, chess, American football, and nerdy things.</p>
+<p align="left">💡🌟I am a Fullstack Developer.<br>👨‍⚕️🔍 I am currently a nurse and hold a Master's degree in Innovation and Intellectual Property Transfer - PROFNIT and an MBA in Entrepreneurial Management. <br>💻🖥️ Technologist in training in Systems Analysis and Development.<br>👨‍💻🌱 I develop in C/C++, Python, PHP, HTML, CSS, JavaScript, and ReactJS/ReactNative.<br>👯🏘️ I am looking to collaborate on projects related to health innovation e agriculture innovation.<br>🧠⚡ I am seeking help with studies in the languages mentioned above.<br>🔭♞ Fun facts: I am a multi-instrumentalist and am interested in astronomy, robotics and microcontrollers/IoT, maker culture/DIY, chess, American football, BJJ, Judo, Martial arts and nerdy things.</p>
 
 ###
 
