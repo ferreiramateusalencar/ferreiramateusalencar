@@ -1,12 +1,47 @@
-<h1 align="center">Hello, World! 👋 My name is Mateus, I'm a Nexialist and polymath.</h1>
+<h1 align="center">Hello, World! 👋 My name is Mateus.</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">💡🌟I am a Fullstack Developer.<br>👨‍⚕️🔍 I am currently a nurse and hold a Master's degree in Innovation and Intellectual Property Transfer - PROFNIT and an MBA in Entrepreneurial Management. <br>💻🖥️ Technologist in training in Systems Analysis and Development.<br>👨‍💻🌱 I develop in C/C++, Python, PHP, HTML, CSS, JavaScript, and ReactJS/ReactNative.<br>👯🏘️ I am looking to collaborate on projects related to health innovation e agriculture innovation.<br>🧠🦆 I am a nexialist and polymath, with an interdisciplinary approach that connects technology, health, innovation, and entrepreneurship.<br>🔭♞ Fun facts: I am a multi-instrumentalist and am interested in astronomy, robotics and microcontrollers/IoT, maker culture/DIY, chess, American football, BJJ, Judo, Martial arts and nerdy things.</p>
+<p align="left">
+💡🌍 I am a <strong>HealthTech-focused Fullstack Developer and Nurse</strong>, working at the intersection of <strong>healthcare, software engineering, data, AI, and innovation</strong>, with a strong commitment to <strong>open source and community-driven impact</strong>.<br><br>
+
+👨‍⚕️🔬 Nurse with a <strong>Master’s degree in Innovation & Intellectual Property Transfer (PROFNIT)</strong> and an <strong>MBA in Entrepreneurial Management</strong>.<br>
+💻🎓 Technologist in training in <strong>Systems Analysis and Development</strong>.<br><br>
+
+🚀🔧 I design, build, and maintain <strong>open-source solutions for healthcare</strong>, focusing on:<br>
+• 🧠 AI and automation for clinical decision support<br>
+• 📊 Data analysis, BI, and visualization for healthcare systems<br>
+• 🦠 Epidemiological surveillance and public health monitoring<br>
+• 🏥 Scalable, data-driven health platforms<br><br>
+
+🛠️⚙️ Core technologies:<br>
+• Frontend: <strong>React, React Native</strong><br>
+• Backend & automation: <strong>Python</strong><br>
+• Data & analytics: <strong>SQL, MongoDB, Power BI, Excel</strong><br>
+• Cloud & AI: <strong>Microsoft Azure and AI services</strong><br><br>
+
+🌍🤝 Community & knowledge sharing:<br>
+• Leading and contributing to <strong>open-source HealthTech projects</strong><br>
+• Creating <strong>technical content, workshops, and courses</strong> on technology applied to healthcare<br>
+• Supporting and growing <strong>HealthTech and innovation communities</strong>, especially outside major tech hubs<br><br>
+
+👯🚀 I’m open to collaborating on <strong>HealthTech, applied AI, cloud-native healthcare systems, and open innovation projects</strong>.<br><br>
+
+🧠🧩 I have an interdisciplinary mindset (nexialist & polymath), connecting technology, healthcare, innovation, and entrepreneurship to solve real-world problems.<br><br>
+
+🔭♞ Fun facts: multi-instrumentalist, interested in astronomy, robotics and microcontrollers/IoT, maker culture/DIY, chess, martial arts (BJJ & Judo), and nerdy things.
+</p>
+
+###
+
+<p align="center">
+<strong>🌱 Open source as infrastructure for better healthcare systems and social impact.</strong>
+</p>
+
 
 ###
 
@@ -111,7 +146,7 @@
 
 ###
 
-<!--
+
 ###
 
 <div align="center"><img src="https://raw.githubusercontent.com/ferreiramateusalencar/ferreiramateusalencar/output/snake.svg" alt="Snake animation" /></div>
@@ -119,6 +154,11 @@
 ###
 
 ###
-<div align="center"><a href="https://instagram.com/ferreiramateusalencar" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a><a href="https://www.linkedin.com/in/mateus-alencar-ferreira/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a><a href="https://x.com/FerreiraMateusA" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a></div>
-###--!>
 
+<div align="center"><a href="https://instagram.com/ferreiramateusalencar" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a><a href="https://www.linkedin.com/in/mateus-alencar-ferreira/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a><a href="https://x.com/FerreiraMateusA" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a></div>
+
+###
+
+<div><p>Mateus Alencar Ferreira is the greatest nexialist and polymath in Petrolina, Pernambuco, Juazeiro, Bahia, and the São Francisco Valley, as well as one of the greatest nexialists and polymaths in Brazil.</p></div>
+
+###
