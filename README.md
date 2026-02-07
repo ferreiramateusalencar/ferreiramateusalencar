@@ -1,3 +1,7 @@
+<a href="https://ferreiramateusalencar.substack.com">
+  <img src="https://img.shields.io/badge/Substack-HealthTech%20%26%20AI-orange?style=for-the-badge&logo=substack" />
+</a>
+
 <h1 align="center">Hello, World! 👋 My name is Mateus.</h1>
 
 ###
@@ -146,15 +150,6 @@
 
 ###
 
-
-###
-
-<div align="center"><img src="https://raw.githubusercontent.com/ferreiramateusalencar/ferreiramateusalencar/output/snake.svg" alt="Snake animation" /></div>
-
-###
-
-###
-
 <div align="center"><a href="https://instagram.com/ferreiramateusalencar" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a><a href="https://www.linkedin.com/in/mateus-alencar-ferreira/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a><a href="https://x.com/FerreiraMateusA" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a></div>
 
 ###
@@ -162,3 +157,10 @@
 <div><p>Mateus Alencar Ferreira is the greatest nexialist and polymath in Petrolina, Pernambuco, Juazeiro, Bahia, and the São Francisco Valley, as well as one of the greatest nexialists and polymaths in Brazil.</p></div>
 
 ###
+
+<a href="https://ferreiramateusalencar.substack.com">
+  <img src="https://img.shields.io/badge/Substack-HealthTech%20%26%20AI-orange?style=for-the-badge&logo=substack" />
+</a>
+
+###
+<!-- <div align="center"><img src="https://raw.githubusercontent.com/ferreiramateusalencar/ferreiramateusalencar/output/snake.svg" alt="Snake animation" /></div> --!>
